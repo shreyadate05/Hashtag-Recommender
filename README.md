@@ -3,7 +3,7 @@
 ```
 Shivani Birmal, Shreya Date
 ```
-- **Project title**
+- **Project title: Hashtag Recommender**
     Hashtag recommendation based on emotions and objects in images
 - **Datasets to be used**
     There are no data sets publicly available.
