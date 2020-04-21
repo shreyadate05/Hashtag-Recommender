@@ -1,9 +1,9 @@
-# CMSC 678 - Project Proposal
+# Hashtag Recommender
 
 ```
-Shivani Birmal, Shreya Date
+Authors: Shivani Birmal, Shreya Date
 ```
-- **Project title: Hashtag Recommender**
+- **Project title**
     Hashtag recommendation based on emotions and objects in images
 - **Datasets to be used**
     There are no data sets publicly available.
